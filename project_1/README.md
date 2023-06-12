@@ -42,7 +42,7 @@
 :arrow_up:[к оглавлению](#Оглавление)
 
 ### Краткая информация о данных
-Исходные данные из базы компании HeadHunter находятся в файле по данной [ссылке.](#https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
+Исходные данные из базы компании HeadHunter находятся в файле по данной [ссылке.](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)
 
 :arrow_up:[к оглавлению](#Оглавление)
 
