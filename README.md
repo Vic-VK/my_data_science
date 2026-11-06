@@ -8,5 +8,5 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1. Анализ вакансий HeadHunter](project_1)
 * [Проект 2. Анализ вакансий из HeadHunter](project_2)
 * [Проект 3. Предсказание рейтинга отеля](project_3)
-
+* [Проект 6. Сегментация клиентов онлайн магазина подарков](project_3)
 ## Ссылки на резюме
